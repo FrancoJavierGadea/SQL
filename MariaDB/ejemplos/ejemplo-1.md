@@ -1,0 +1,32 @@
+
+
+```text
+| id  | name                | age | club              | shirt_number | rol             | debut_club         | goals | nicknames | birthday   | trophies_won | years_active | debut_age | trophies                                  |
+| --- | ------------------- | --- | ----------------- | ------------ | --------------- | ------------------ | ----- | --------- | ---------- | ------------ | ------------ | --------- | ----------------------------------------- |
+| 1   | Emiliano Martínez   | 30  | Aston Villa       | 1            | Goalkeeper      | Independiente      | 0     | Dibu      | 1992-09-02 | 5            | 13           | 16        | Copa América, Finalissima, FIFA World Cup |
+| 2   | Franco Armani       | 37  | River Plate       | 12           | Goalkeeper      | Ferro Carril Oeste | 0     | Pulpo     | 1986-10-16 | 4            | 19           | 20        | Copa Libertadores, Recopa Sudamericana    |
+| 3   | Gonzalo Montiel     | 27  | Sevilla           | 4            | Defender        | River Plate        | 3     | Cachete   | 1997-01-01 | 3            | 7            | 18        | Copa América, UEFA Europa League          |
+| 4   | Cristian Romero     | 26  | Tottenham Hotspur | 13           | Defender        | Belgrano           | 2     | Cuti      | 1998-04-27 | 2            | 6            | 18        | Copa América                              |
+| 5   | Nicolás Otamendi    | 36  | Benfica           | 19           | Defender        | Vélez Sarsfield    | 5     | Ota       | 1988-02-12 | 8            | 18           | 17        | Premier League, Copa América              |
+| 6   | Lisandro Martínez   | 26  | Manchester United | 25           | Defender        | Newell's Old Boys  | 1     | Licha     | 1998-01-18 | 2            | 8            | 18        | Eredivisie, Copa América                  |
+| 7   | Marcos Acuña        | 32  | Sevilla           | 8            | Defender        | Ferro Carril Oeste | 1     | Huevo     | 1992-10-28 | 3            | 11           | 21        | La Liga, Copa América                     |
+| 8   | Nahuel Molina       | 26  | Atlético Madrid   | 21           | Defender        | Boca Juniors       | 2     | Molina    | 1998-04-06 | 1            | 6            | 18        | Copa América                              |
+| 9   | Rodrigo De Paul     | 29  | Atlético Madrid   | 7            | Midfielder      | Racing Club        | 5     | RDP       | 1994-05-24 | 4            | 9            | 19        | La Liga, Copa América                     |
+| 10  | Leandro Paredes     | 30  | Juventus          | 5            | Midfielder      | Boca Juniors       | 4     | Lea       | 1994-06-29 | 3            | 10           | 16        | Ligue 1, Copa América                     |
+| 11  | Giovani Lo Celso    | 27  | Villarreal        | 20           | Midfielder      | Rosario Central    | 3     | Gio       | 1996-04-09 | 2            | 8            | 18        | Ligue 1, Copa América                     |
+| 12  | Alexis Mac Allister | 25  | Liverpool         | 14           | Midfielder      | Argentinos Juniors | 4     | Mac       | 1998-12-24 | 2            | 6            | 18        | Premier League, Copa América              |
+| 13  | Exequiel Palacios   | 25  | Bayer Leverkusen  | 22           | Midfielder      | River Plate        | 2     | Pala      | 1998-10-05 | 1            | 7            | 17        | Copa América                              |
+| 14  | Lionel Messi        | 37  | Inter Miami       | 10           | Forward         | Barcelona          | 70    | La Pulga  | 1987-06-24 | 42           | 20           | 17        | Ballon d'Or, FIFA World Cup, Copa América |
+| 15  | Lautaro Martínez    | 26  | Inter Milan       | 9            | Forward         | Racing Club        | 35    | Toro      | 1997-08-22 | 7            | 7            | 18        | Serie A, Copa América                     |
+| 16  | Ángel Di María      | 36  | Benfica           | 11           | Forward         | Rosario Central    | 25    | Fideo     | 1988-02-14 | 21           | 18           | 17        | UEFA Champions League, Copa América       |
+| 17  | Paulo Dybala        | 30  | AS Roma           | 21           | Forward         | Instituto          | 12    | La Joya   | 1994-11-15 | 6            | 11           | 17        | Serie A, Copa América                     |
+| 18  | Julián Álvarez      | 24  | Manchester City   | 16           | Forward         | River Plate        | 10    | Araña     | 2000-01-31 | 4            | 5            | 18        | Premier League, Copa América              |
+| 19  | Nicolás González    | 25  | Fiorentina        | 15           | Forward         | Argentinos Juniors | 5     | Nico      | 1998-04-06 | 3            | 6            | 18        | Copa América                              |
+| 20  | Joaquín Correa      | 29  | Inter Milan       | 17           | Forward         | Estudiantes        | 8     | Tucu      | 1994-08-13 | 2            | 10           | 18        | Serie A, Copa América                     |
+| 21  | Ángel Correa        | 29  | Atlético Madrid   | 10           | Forward         | San Lorenzo        | 6     | Angelito  | 1994-03-09 | 3            | 10           | 17        | La Liga, Copa América                     |
+| 22  | Alejandro Garnacho  | 19  | Manchester United | 18           | Forward         | Atlético Madrid    | 2     | Garna     | 2004-07-01 | 1            | 2            | 18        | Premier League                            |
+| 23  | Lionel Scaloni      | 45  | Lazio             | 3            | Head Coach      | Newell's Old Boys  | 7     | Scalo     | 1978-05-16 | 2            | 20           | 17        | Copa América, FIFA World Cup              |
+| 24  | Walter Samuel       | 45  | Inter Milan       | 2            | Assistant Coach | Newell's Old Boys  | 5     | Muro      | 1978-03-23 | 2            | 21           | 17        | Serie A, FIFA World Cup                   |
+| 25  | Roberto Ayala       | 50  | Racing Club       | 2            | Assistant Coach | Ferro Carril Oeste | 9     | Ratón     | 1973-04-14 | 2            | 22           | 17        | La Liga, Copa América                     |
+| 26  | Pablo Aimar         | 44  | Benfica           | 10           | Assistant Coach | River Plate        | 15    | Payaso    | 1979-11-03 | 1            | 20           | 17        | La Liga, Copa América                     |
+```
